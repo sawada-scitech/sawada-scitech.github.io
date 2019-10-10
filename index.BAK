@@ -89,7 +89,7 @@ address {
         <!-- /header -->
 
 		<dl id="contents">
-        	<dt>このウェブスペースへは、まだホームページがアップロードされていません。</dt>
+        	<dt>GitHub Website</dt>
             <dd>
             	<p>早速、エックスサーバー上へファイルをアップロードしてみましょう。<br />
                 アップロードの方法などは、<a href="https://www.xserver.ne.jp/man_ftp_setting.php">サポートマニュアル</a>をご参照ください。</p>
