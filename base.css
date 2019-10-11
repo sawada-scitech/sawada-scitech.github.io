@@ -57,3 +57,8 @@ body {
 #main p{
 	margin-bottom:	30px;
 }
+#main img{
+	max-width:		100%;
+	height:			auto;
+
+}
